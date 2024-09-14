@@ -1,0 +1,13 @@
+ls=list the files
+ls-a=list the hidden files
+
+rm=remove the file
+rm-rf=remove the directory forcefully
+
+vim=file creation command
+cd=change directory
+mv=move files from source file to destination file
+mkdir=make/create directory
+pwd=present/current working directory
+cp=to copy the files from source to destination
+cp-r=to copy the directory from source to destinatiin
